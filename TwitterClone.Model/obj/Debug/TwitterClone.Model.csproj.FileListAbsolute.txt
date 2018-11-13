@@ -1,0 +1,5 @@
+D:\Full Stack Developer\Assignments\TwitterClone\TwitterClone.Model\bin\Debug\TwitterClone.Model.dll
+D:\Full Stack Developer\Assignments\TwitterClone\TwitterClone.Model\bin\Debug\TwitterClone.Model.pdb
+D:\Full Stack Developer\Assignments\TwitterClone\TwitterClone.Model\obj\Debug\TwitterClone.Model.csprojResolveAssemblyReference.cache
+D:\Full Stack Developer\Assignments\TwitterClone\TwitterClone.Model\obj\Debug\TwitterClone.Model.dll
+D:\Full Stack Developer\Assignments\TwitterClone\TwitterClone.Model\obj\Debug\TwitterClone.Model.pdb
